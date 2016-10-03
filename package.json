@@ -1,0 +1,13 @@
+{
+  "name": "price-parse",
+  "version": "1.0.0",
+  "description": "Parse a string of text and return a price if found",
+  "main": "index.js",
+  "repository": "leahcimic/price-parse",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["price", "text", "parse", "string"],
+  "author": "Michael Leaney <leahcimic@gmail.com>",
+  "license": "ISC"
+}
