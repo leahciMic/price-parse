@@ -1,6 +1,6 @@
 {
   "name": "price-parse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse a string of text and return a price if found",
   "main": "index.js",
   "repository": "leahcimic/price-parse",
